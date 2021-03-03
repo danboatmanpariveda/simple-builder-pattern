@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dan.Boatman/CLionProjects/RecipeManager/Recipe.h
+string
+-
+list
+-
+
+C:/Users/Dan.Boatman/CLionProjects/RecipeManager/RecipeBuilder.h
+Recipe.h
+C:/Users/Dan.Boatman/CLionProjects/RecipeManager/Recipe.h
+
+C:/Users/Dan.Boatman/CLionProjects/RecipeManager/main.cpp
+iostream
+-
+RecipeBuilder.h
+C:/Users/Dan.Boatman/CLionProjects/RecipeManager/RecipeBuilder.h
+

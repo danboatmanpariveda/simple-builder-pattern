@@ -1,0 +1,3 @@
+C:/Users/Dan.Boatman/CLionProjects/RecipeManager/cmake-build-debug/CMakeFiles/RecipeManager.dir
+C:/Users/Dan.Boatman/CLionProjects/RecipeManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dan.Boatman/CLionProjects/RecipeManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
